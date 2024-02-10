@@ -54,7 +54,7 @@
         @apply text-white bg-blue-300 rounded-md block w-full px-1 py-[0.875rem] leading-snug text-sm word-spacing-wide font-medium shadow-md shadow-blue-100 duration-300 hover:bg-white hover:text-blue-300 border-2 border-blue-300;
     }
     .question-head {
-        @apply flex items-center pb-[1.2rem] pt-5 pl-1 pr-7 border-b-2 border-gray-blue-300 cursor-pointer;
+        @apply flex items-center pb-[1.125rem] pt-[1.3rem] pl-1 pr-7 border-b-2 border-gray-blue-300 cursor-pointer;
     }
     .question-head h3 {
         @apply text-blue-800 text-[0.9375rem] lg:text-normal font-medium flex-1 hover:text-red-300 duration-300;

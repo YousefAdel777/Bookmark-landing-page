@@ -221,8 +221,8 @@
   border-bottom-width: 2px;
   --tw-border-opacity: 1;
   border-color: rgb(204 204 204 / var(--tw-border-opacity));
-  padding-bottom: 1.2rem;
-  padding-top: 1.25rem;
+  padding-bottom: 1.125rem;
+  padding-top: 1.3rem;
   padding-left: 0.25rem;
   padding-right: 1.75rem;
 }
@@ -1232,10 +1232,6 @@ body{
 
 .pb-16{
   padding-bottom: 4rem;
-}
-
-.pr-3{
-  padding-right: 0.75rem;
 }
 
 .pt-28{
